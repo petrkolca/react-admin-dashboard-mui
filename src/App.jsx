@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Admin Dashboard</h1>
+      <h1>Admin Dashboard MUI</h1>
     </div>
   )
 }
